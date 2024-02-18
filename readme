@@ -1,0 +1,39 @@
+Sistema de gerenciamento de folha de pagamento de funcionários
+Visão geral
+O Employee Payroll Management System é um aplicativo baseado na web projetado para gerenciar e exibir detalhes dos funcionários de forma eficiente. Este sistema permite aos usuários adicionar novos funcionários e visualizar seus dados de forma clara e organizada. O projeto visa simplificar o processo de tratamento de informações de funcionários e tarefas relacionadas à folha de pagamento.
+
+Tecnologias Utilizadas
+HTML: O projeto é estruturado em HTML para criar o layout e os elementos da página web.
+
+CSS: o estilo é implementado usando CSS para aprimorar o apelo visual e manter uma aparência consistente em todo o aplicativo.
+
+JavaScript: A funcionalidade do aplicativo é implementada usando JavaScript, que inclui a busca e exibição de detalhes dos funcionários de forma dinâmica.
+
+Estrutura do Projeto
+index.html: O arquivo HTML principal que define a estrutura da página web.
+
+EmployeePayrollHome.css: arquivo de folha de estilo responsável pela aparência visual da página web.
+
+EmployeePayrollHome.js: arquivo JavaScript contendo a lógica para buscar e exibir detalhes do funcionário.
+
+site_properties.js: arquivo de configuração que armazena propriedades e caminhos específicos do site.
+
+utility.js: Funções utilitárias usadas em todo o projeto.
+
+Características
+Exibição de detalhes do funcionário:
+
+O aplicativo exibe uma tabela contendo os dados dos funcionários de forma organizada.
+Adicionar funcionalidade do usuário:
+
+Os usuários podem adicionar novos funcionários ao sistema clicando no botão “Adicionar usuário”.
+Começando
+Clone o repositório:git clone https://github.com/your-username/employee-payroll.git
+Abra o index.htmlarquivo em um navegador da web para visualizar o Sistema de gerenciamento de folha de pagamento de funcionários.
+Uso
+Ver detalhes do funcionário:
+
+Abra o aplicativo para visualizar uma tabela exibindo os detalhes dos funcionários existentes.
+Adicione um novo usuário:
+
+Clique no botão "Adicionar usuário" para navegar até a página de adição de um novo funcionário.
