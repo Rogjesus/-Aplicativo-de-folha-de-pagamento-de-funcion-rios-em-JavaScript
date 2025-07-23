@@ -28,10 +28,3 @@ Adicionar funcionalidade do usuário:
 
 Os usuários podem adicionar novos funcionários ao sistema clicando no botão “Adicionar usuário”.
 Começando
-Clone o repositório:git clone https://github.com/your-username/employee-payroll.git
-Abra o index.htmlarquivo em um navegador da web para visualizar o Sistema de gerenciamento de folha de pagamento de funcionários.
-Uso
-Ver detalhes do funcionário:
-
-Abra o aplicativo para visualizar uma tabela exibindo os detalhes dos funcionários existentes.
-Adicione um novo usuário:
